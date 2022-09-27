@@ -1,0 +1,15 @@
+{
+    "extra_headers": [
+        "Subtask 1 (21)",
+        "Subtask 2 (35)",
+        "Subtask 3 (11)",
+        "Subtask 4 (33)"
+    ],
+    "name": "\u8cea\u611f\u6e2c\u8a66",
+    "short_name": "quality",
+    "contest": "TOI2020_2d1st",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 3
+}

@@ -1,0 +1,14 @@
+{
+    "extra_headers": [
+        "Subtask 1 (20)",
+        "Subtask 2 (25)",
+        "Subtask 3 (55)"
+    ],
+    "name": "\u56db\u9ede\u5171\u7dda",
+    "short_name": "collinearity",
+    "contest": "TOI2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 0
+}

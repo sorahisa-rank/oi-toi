@@ -1,0 +1,14 @@
+{
+    "extra_headers": [
+        "Subtask 1 (19)",
+        "Subtask 2 (34)",
+        "Subtask 3 (47)"
+    ],
+    "name": "\u5efa\u8a2d\u4eba\u5de5\u5cf6",
+    "short_name": "island",
+    "contest": "TOI2020_2d1st",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 1
+}

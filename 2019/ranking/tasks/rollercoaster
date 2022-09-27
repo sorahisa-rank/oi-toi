@@ -1,0 +1,15 @@
+{
+    "extra_headers": [
+        "Subtask 1 (11)",
+        "Subtask 2 (22)",
+        "Subtask 3 (33)",
+        "Subtask 4 (34)"
+    ],
+    "name": "\u96f2\u9704\u98db\u8eca",
+    "short_name": "rollercoaster",
+    "contest": "TOI2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 3
+}
