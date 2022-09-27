@@ -1,0 +1,14 @@
+{
+    "extra_headers": [
+        "Subtask 1 (36)",
+        "Subtask 2 (32)",
+        "Subtask 3 (32)"
+    ],
+    "name": "\u9280\u6cb3\u6377\u904b",
+    "short_name": "mrt",
+    "contest": "TOI2020_2d1st",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 2
+}

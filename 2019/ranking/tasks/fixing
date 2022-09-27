@@ -1,0 +1,14 @@
+{
+    "extra_headers": [
+        "Subtask 1 (23)",
+        "Subtask 2 (38)",
+        "Subtask 3 (39)"
+    ],
+    "name": "\u50b3\u771f\u4fee\u5fa9",
+    "short_name": "fixing",
+    "contest": "TOI2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 4
+}

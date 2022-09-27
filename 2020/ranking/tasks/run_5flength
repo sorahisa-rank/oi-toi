@@ -1,0 +1,13 @@
+{
+    "extra_headers": [
+        "Subtask 1 (40)",
+        "Subtask 2 (60)"
+    ],
+    "name": "\u5b57\u4e32\u89e3\u58d3\u7e2e",
+    "short_name": "run_length",
+    "contest": "TOI2020_2d1st",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 0
+}

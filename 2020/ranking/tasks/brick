@@ -1,0 +1,15 @@
+{
+    "extra_headers": [
+        "Subtask 1 (16)",
+        "Subtask 2 (21)",
+        "Subtask 3 (45)",
+        "Subtask 4 (18)"
+    ],
+    "name": "\u92ea\u5730\u78da",
+    "short_name": "brick",
+    "contest": "TOI2020_2d1st",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 4
+}

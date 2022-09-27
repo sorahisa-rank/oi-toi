@@ -1,0 +1,11 @@
+var TeamSearch=new function(){var self=this;self.init=function(){$("#TeamSearch_input").focus(function(){self.show();});$("#TeamSearch_bg").click(function(event){if(event.target==event.currentTarget){self.hide();}});$("#TeamSearch_close").click(function(){self.hide();});$("#TeamSearch_input").on("input",function(){self.update();});$("#TeamSearch_input").on("propertychange",function(){self.update();});self.body=$('#TeamSearch_body');self.generate();self.update();DataStore.select_events.add(self.select_handler);};self.generate=function(){self.sel=new Object();self.cnt=new Object();for(var t_id in DataStore.teams){self.sel[t_id]=0;self.cnt[t_id]=DataStore.teams[t_id]["users"].length;}
+var inner_html="";for(var i in DataStore.team_list){var team=DataStore.team_list[i];var t_id=team["key"];inner_html+=" \
+<div class=\"item\" data-team=\""+t_id+"\"> \
+    <label> \
+        <input type=\"checkbox\"/> \
+        <img class=\"flag\" src=\""+Config.get_flag_url(t_id)+"\" /> "+team['name']+" \
+    </label> \
+</div>";}
+self.body.html(inner_html);self.body.on("change","input[type=checkbox]",function(){var $this=$(this);var users=DataStore.teams[$this.parent().parent().data("team")]["users"];var status=$this.prop("checked");for(var i in users){DataStore.set_selected(users[i]["key"],status);}});};self.select_handler=function(u_id,flag){var user=DataStore.users[u_id];var t_id=user['team'];if(!t_id){return;}
+if(flag){self.sel[t_id]+=1;}else{self.sel[t_id]-=1;}
+var $elem=$("div.item[data-team="+t_id+"] input[type=checkbox]",self.body);if(self.sel[t_id]==self.cnt[t_id]){$elem.prop("checked",true);$elem.prop("indeterminate",false);}else if(self.sel[t_id]>0){$elem.prop("checked",true);$elem.prop("indeterminate",true);}else{$elem.prop("checked",false);$elem.prop("indeterminate",false);}};self.show=function(){$("#TeamSearch_bg").addClass("open");};self.hide=function(){$("#TeamSearch_bg").removeClass("open");};self.update=function(){var search_text=$("#TeamSearch_input").val();if(search_text==""){$('div.item',self.t_body).removeClass("hidden");}else{for(var t_id in DataStore.teams){var team=DataStore.teams[t_id];if(team["name"].toLowerCase().indexOf(search_text.toLowerCase())==-1){$("div.item[data-team="+t_id+"]",self.body).addClass("hidden");}else{$("div.item[data-team="+t_id+"]",self.body).removeClass("hidden");}}}};};
