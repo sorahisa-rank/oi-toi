@@ -1,15 +1,15 @@
--   2018
-    -   題本：https://sorahisa-rank.github.io/toi/2018/problems.pdf
-    -   正式賽：https://sorahisa-rank.github.io/toi/2018/ranking.jpg
+-   [2018](https://tioj.ck.tp.edu.tw/problems/tag/2018-TOI-pre)
+    -   [題本](https://sorahisa-rank.github.io/oi-toi/2018/problems.pdf)
+    -   [正式賽](https://sorahisa-rank.github.io/oi-toi/2018/ranking.jpg)
 -   2019
-    -   題本：https://sorahisa-rank.github.io/toi/2019/problems.pdf
-    -   正式賽：https://sorahisa-rank.github.io/toi/2019/ranking/
--   2020
-    -   題本：https://sorahisa-rank.github.io/toi/2020/problems.pdf
-    -   正式賽：https://sorahisa-rank.github.io/toi/2020/ranking/
--   2021
-    -   題本：https://sorahisa-rank.github.io/toi/2021/problems.pdf
-    -   正式賽：https://sorahisa-rank.github.io/toi/2021/ranking/
--   2022
-    -   題本：https://sorahisa-rank.github.io/toi/2022/problems.pdf
-    -   正式賽：https://sorahisa-rank.github.io/toi/2022/ranking/
+    -   [題本](https://sorahisa-rank.github.io/oi-toi/2019/problems.pdf)
+    -   [正式賽](https://sorahisa-rank.github.io/oi-toi/2019/ranking/)
+-   [2020](https://tioj.ck.tp.edu.tw/problems/tag/2020-TOI-pre)
+    -   [題本](https://sorahisa-rank.github.io/oi-toi/2020/problems.pdf)
+    -   [正式賽](https://sorahisa-rank.github.io/oi-toi/2020/ranking/)
+-   [2021](https://tioj.ck.tp.edu.tw/problems/tag/2021-TOI-pre)
+    -   [題本](https://sorahisa-rank.github.io/oi-toi/2021/problems.pdf)
+    -   [正式賽](https://sorahisa-rank.github.io/oi-toi/2021/ranking/)
+-   [2022](https://tioj.ck.tp.edu.tw/problems/tag/2022-TOI-pre)
+    -   [題本](https://sorahisa-rank.github.io/oi-toi/2022/problems.pdf)
+    -   [正式賽](https://sorahisa-rank.github.io/oi-toi/2022/ranking/)
