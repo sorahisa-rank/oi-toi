@@ -1,6 +1,6 @@
 -   [2018 on TIOJ](https://tioj.ck.tp.edu.tw/problems/tag/2018-TOI-pre)
     -   [題本](https://sorahisa-rank.github.io/oi-toi/2018/problems.pdf)
-    -   [正式賽](https://sorahisa-rank.github.io/oi-toi/2018/ranking.jpg)
+    -   [截圖 by baluteshih](https://sorahisa-rank.github.io/oi-toi/2018/ranking.jpg)
 -   2019
     -   [題本](https://sorahisa-rank.github.io/oi-toi/2019/problems.pdf)
     -   [正式賽](https://sorahisa-rank.github.io/oi-toi/2019/ranking/)
