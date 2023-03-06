@@ -1,0 +1,73 @@
+[
+    {
+        "user": "T23345",
+        "task": "house",
+        "time": 1677997720,
+        "key": 1720,
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "T23345",
+        "task": "storm",
+        "time": 1677997721,
+        "key": 1721,
+        "score": 5.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "T23345",
+        "task": "game",
+        "time": 1677997722,
+        "key": 1722,
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "T23345",
+        "task": "molecule",
+        "time": 1677997723,
+        "key": 1723,
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "T23345",
+        "task": "road",
+        "time": 1677997724,
+        "key": 1724,
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]
