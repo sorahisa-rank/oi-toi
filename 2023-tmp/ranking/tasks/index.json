@@ -3,7 +3,7 @@
         "name": "A. \u623f\u5c4b\u63a8\u85a6",
         "short_name": "house",
         "contest": "TOI2023",
-        "max_score": 100,
+        "max_score": 100.0,
         "extra_headers": [
             "Subtask 1 (20)",
             "Subtask 2 (30)",
@@ -17,7 +17,7 @@
         "name": "B. \u88c1\u54e1\u98a8\u66b4",
         "short_name": "storm",
         "contest": "TOI2023",
-        "max_score": 100,
+        "max_score": 100.0,
         "extra_headers": [
             "Subtask 1 (5)",
             "Subtask 2 (5)",
@@ -34,7 +34,7 @@
         "name": "C. \u95dc\u5361\u5730\u5716",
         "short_name": "game",
         "contest": "TOI2023",
-        "max_score": 100,
+        "max_score": 100.0,
         "extra_headers": [
             "Subtask 1 (17)",
             "Subtask 2 (23)",
@@ -49,7 +49,7 @@
         "name": "D. \u5206\u5b50\u74b0",
         "short_name": "molecule",
         "contest": "TOI2023",
-        "max_score": 100,
+        "max_score": 100.0,
         "extra_headers": [
             "Subtask 1 (8)",
             "Subtask 2 (29)",
@@ -64,7 +64,7 @@
         "name": "E. \u516c\u8def",
         "short_name": "road",
         "contest": "TOI2023",
-        "max_score": 100,
+        "max_score": 100.0,
         "extra_headers": [
             "Subtask 1 (18)",
             "Subtask 2 (31)",
