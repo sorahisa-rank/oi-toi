@@ -49,7 +49,7 @@ subchanges = {}
 submission_tok = 0
 for id in id_dict:
     for i in range(5):
-        subchanges[submission_tok] = {
+        subchanges[str(1677996000 + submission_tok) + str(submission_tok) + "s"] = {
             "submission": str(submission_tok),
             "time": 1677996000 + submission_tok,
             "score": float(id_dict[id]["score"][i]),
