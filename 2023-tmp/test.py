@@ -70,7 +70,7 @@ for id in id_dict:
             "user": id,
             "task": problem_names[i],
             "time": 1677996000 + submission_tok,
-            "key": submission_tok,
+            "key": str(submission_tok),
             "score": float(id_dict[id]["score"][i]),
             "token": False,
             "extra": ["0"] * problem_subtasks[i]

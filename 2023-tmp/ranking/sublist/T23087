@@ -3,7 +3,7 @@
         "user": "T23087",
         "task": "house",
         "time": 1677996430,
-        "key": 430,
+        "key": "430",
         "score": 100.0,
         "token": false,
         "extra": [
@@ -16,7 +16,7 @@
         "user": "T23087",
         "task": "storm",
         "time": 1677996431,
-        "key": 431,
+        "key": "431",
         "score": 100.0,
         "token": false,
         "extra": [
@@ -32,7 +32,7 @@
         "user": "T23087",
         "task": "game",
         "time": 1677996432,
-        "key": 432,
+        "key": "432",
         "score": 23.0,
         "token": false,
         "extra": [
@@ -46,7 +46,7 @@
         "user": "T23087",
         "task": "molecule",
         "time": 1677996433,
-        "key": 433,
+        "key": "433",
         "score": 0.0,
         "token": false,
         "extra": [
@@ -60,7 +60,7 @@
         "user": "T23087",
         "task": "road",
         "time": 1677996434,
-        "key": 434,
+        "key": "434",
         "score": 0.0,
         "token": false,
         "extra": [
