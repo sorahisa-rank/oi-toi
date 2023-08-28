@@ -16,6 +16,6 @@
     -   [題解 on twpca](https://toip2022.twpca.org/editorial/editorial)
     -   [正式賽](https://sorahisa-rank.github.io/oi-toi/2022/ranking/)
 -   2023
-    -   題本
-    -   題解
+    -   [題本](https://sorahisa-rank.github.io/oi-toi/2023/problems.pdf)
+    -   [題解 on twpca](https://toip2023.twpca.org/editorial/editorial)
     -   [正式賽（靜態網頁）](https://sorahisa-rank.github.io/oi-toi/2023/ranking/)
